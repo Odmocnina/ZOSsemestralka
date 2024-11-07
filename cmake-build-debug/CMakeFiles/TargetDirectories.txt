@@ -1,0 +1,3 @@
+C:/Users/Michael/Documents/Skola/ZOS/Semestralka/cmake-build-debug/CMakeFiles/Semestralka.dir
+C:/Users/Michael/Documents/Skola/ZOS/Semestralka/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Michael/Documents/Skola/ZOS/Semestralka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
